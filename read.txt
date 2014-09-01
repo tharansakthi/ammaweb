@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 oooooomsakthi
 new line added 1
+=======
+omsakthi
+>>>>>>> parent of c0f0798... Revert "Revert "adding ooo""
