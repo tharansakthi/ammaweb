@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 line 1
+=======
+hello added in new file
+>>>>>>> parent of bfd776b... Revert "hello added"
